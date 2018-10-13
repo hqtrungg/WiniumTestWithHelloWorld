@@ -1,0 +1,9 @@
+c:\users\ch4initus\documents\visual studio 2013\Projects\HelloWorldTest\HelloWorldTest\bin\Debug\HelloWorldTest.dll
+c:\users\ch4initus\documents\visual studio 2013\Projects\HelloWorldTest\HelloWorldTest\bin\Debug\HelloWorldTest.pdb
+c:\users\ch4initus\documents\visual studio 2013\Projects\HelloWorldTest\HelloWorldTest\bin\Debug\WebDriver.dll
+c:\users\ch4initus\documents\visual studio 2013\Projects\HelloWorldTest\HelloWorldTest\bin\Debug\Winium.Elements.Desktop.dll
+c:\users\ch4initus\documents\visual studio 2013\Projects\HelloWorldTest\HelloWorldTest\bin\Debug\Winium.WebDriver.dll
+c:\users\ch4initus\documents\visual studio 2013\Projects\HelloWorldTest\HelloWorldTest\bin\Debug\WebDriver.xml
+c:\users\ch4initus\documents\visual studio 2013\Projects\HelloWorldTest\HelloWorldTest\obj\Debug\HelloWorldTest.csprojResolveAssemblyReference.cache
+c:\users\ch4initus\documents\visual studio 2013\Projects\HelloWorldTest\HelloWorldTest\obj\Debug\HelloWorldTest.dll
+c:\users\ch4initus\documents\visual studio 2013\Projects\HelloWorldTest\HelloWorldTest\obj\Debug\HelloWorldTest.pdb
